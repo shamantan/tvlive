@@ -1,3 +1,4 @@
+TV0,#genre#
 8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
@@ -28,4 +29,5 @@ Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
