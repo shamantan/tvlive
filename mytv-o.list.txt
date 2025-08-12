@@ -29,5 +29,4 @@ Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
