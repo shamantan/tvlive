@@ -20,7 +20,7 @@ Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
 Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-Astro Badminton 1,https://stream.iptv-search.com/main.php?id=Astro+Badminton+1&t=1753977057&token=0afb74f1b11aca2370504b576ebdf2d9
+Astro Badminton 1,http://php.jdshipin.com/smt.php?id=go_badminton1
 Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
@@ -29,6 +29,5 @@ Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
+Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png",Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
