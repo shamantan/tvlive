@@ -30,78 +30,95 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-馬來西亞,#genre#
-TV1,P2p://starvod.xyz:19806/b53b631feedc41baa3778bbde8bfcdcc.ts
-TV2,P2p://starvod.xyz:19806/771891fa9c5345ca9ec6ae7e138e3924.ts
-TV3,P2p://starvod.xyz:19806/0f9c8d6e327a477f922a6d2c1f87c1f0.ts
-Astro Oasis HD,P2p://starvod.xyz:19806/693b0547574c46baac46be94bd02a147.ts
-Al-Hijrah,P2p://starvod.xyz:19806/d5d44c09e8e2402bbc1f5c6f3c51004a.ts
-Awesome TV,P2p://starvod.xyz:19806/d950658a8a2b474aa3ed47beca2ee1a6.ts
-TV Okey,P2p://starvod.xyz:19806/c8301a84acd740909034c7ba0a615788.ts
-NTV7,P2p://starvod.xyz:19806/a868f6306ecf48a9909b7a369dbe9700.ts
-八度空間,P2p://starvod.xyz:19806/13bb1429f3744fd1a9ec70ee7d2f24c6.ts
-TV9,P2p://starvod.xyz:19806/ead524fdf3124dcda14fd4d543065bee.ts
-SUN TV,P2p://starvod.xyz:19806/3e362d65c7914c7186b492ef40a33e38.ts
-Star Vijay,P2p://starvod.xyz:19806/aeb7cff2c1da49f6878ff4146347ba5c.ts
-Zee Tamil,P2p://starvod.xyz:19806/a8739c3ba9a847908ccac6c7a8b0cc8d.ts
-愛奇藝,P2p://starvod.xyz:19806/78f17ea46cc94bd79956233ad227f094.ts
-千禧經典台,P2p://starvod.xyz:19806/edec663bf45749048fc098d47d4618a8.ts
-Astro AEC,P2p://starvod.xyz:19806/ffe1372ecc664192a107f3793c6b0bcb.ts
-天映頻道,P2p://starvod.xyz:19806/538d1cc6941442d4a4e166083d128cf3.ts
-翡翠台,P2p://starvod.xyz:19806/4eb3c908714d4374a256f4f2da0d6f24.ts
-Astro AOD HD 311,P2p://starvod.xyz:19806/6353366ced1244b9880feb5675c09855.ts
-中天亞洲台,P2p://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
-TVB娛樂新聞台,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
-TVB星河,P2p://starvod.xyz:19806/1e49e265b69c41b7a056585f9440f05f.ts
-TVBS亞洲,P2p://starvod.xyz:19806/2c41971e5541421fb3e3dec01ea70645.ts
-天映經典,P2p://starvod.xyz:19806/1019ce7e7d6e45bea8fd6aec45f5ef12.ts
-Astro歡喜台,P2p://starvod.xyz:19806/e06784ee86f2466faf25dea43f7ba745.ts
-KBS World,P2p://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
-HITS Movies,P2p://starvod.xyz:19806/31e31d282a5a4acb9e7856599456072b.ts
-BOO,P2p://starvod.xyz:19806/9ee546f426c64398af4f2d301c8f00b4.ts
-tvN Movies HD,P2p://starvod.xyz:19806/35596b76301f4c8384281e28cf44327c.ts
-Astro Awani,P2p://starvod.xyz:19806/8ccbcd3c10c649f39a9db21b29463e7b.ts
-CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
-BBC World News,P2p://starvod.xyz:19806/0621f6f581aa4aa8a88d362b3ef92295.ts
-Sky News,P2p://starvod.xyz:19806/5658db93468c4ab793d125b6620ab480.ts
-CNBC,P2p://starvod.xyz:19806/8cdff1b7d0d0480ea303ad89f6df0a70.ts
-ABC Australia,P2p://starvod.xyz:19806/da39c4b1101544ae895b706a7e8bd13d.ts
-France24,P2p://starvod.xyz:19806/20b9a94c6da94dd1beb5676e1cf83ae6.ts
-Astro Ceria,P2p://starvod.xyz:19806/ea1d109ded2c43dda257df9c4a505259.ts
-Boomerang,P2p://starvod.xyz:19806/3083cd9f65f349488b99ce07ccd56cd1.ts
-KIX,P2p://starvod.xyz:19806/819241aca629402c99d6c862a083e5cd.ts
-HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
-TLC旅遊生活,P2p://starvod.xyz:19806/e32dafaf7fa440edaf439ff36d13105a.ts
-Astro Arena,P2p://starvod.xyz:19806/1c9bcb51041e4db4b1f58a4c4def0d55.ts
-Astro Arena 2,P2p://starvod.xyz:19806/49dc750e87914008b642befb7ef1ccc8.ts
-Astro Premier League,P2p://starvod.xyz:19806/81b53ce210de4bd8be41beacdcc71d12.ts
-Astro Premier League 2,P2p://starvod.xyz:19806/eb3636e27ada44d2856333cc29c17de1.ts
-Astro Grandstand,P2p://starvod.xyz:19806/fe682e01fdd7412d99f29ea146f60080.ts
-Astro Football,P2p://starvod.xyz:19806/6efa4b6dec314b18866f6f7455f1869d.ts
-Astro Badminton,P2p://starvod.xyz:19806/3e157919359844968565fda0e026132d.ts
-beIN Sports 2,P2p://starvod.xyz:19806/19ad4b1226c04f8a8932587004f7ceab.ts
-beIN Sports,P2p://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
-beIN Sports 3,P2p://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
-Eurosport HD,P2p://starvod.xyz:19806/2522e6573aa4471fb8a6ae060166568a.ts
-Golf Channel,P2p://starvod.xyz:19806/a44dfa7c76f74480b4abdc56a58ffa39.ts
-SPOTV,P2p://starvod.xyz:19806/364e4565c062402e8c8f1d46edb9e30a.ts
-SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
-新加坡,#genre#
-中天亞洲台,P2p://starvod.xyz:19806/683afa950007a7fef6a7314275d073d0.ts
-KBS World,P2p://starvod.xyz:19806/683afbcf0002ac8df6abfa8a1dd147ca.ts
-CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a.ts
-Fox News,P2p://starvod.xyz:19806/bd8e93c3213f42bf8e5c46b3c43e56ee.ts
-Euronews,P2p://starvod.xyz:19806/b3e7162bd5354f1d814e309800219c1f.ts
-HITS,P2p://starvod.xyz:19806/9d0eb098b1b84f988e2be173bb81d447.ts
-beIN Sports,P2p://starvod.xyz:19806/7ec6631ab8414c8295b678161ff3e950.ts
-beIN Sports 3,P2p://starvod.xyz:19806/7ed418897a26478aadb200969520b492.ts
-Fight Sports,P2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-Mediacorp 5,P2p://starvod.xyz:19806/454bb3c2d85449098418d8dd41473310.ts
-Mediacorp 8,P2p://starvod.xyz:19806/1b95df20db1d4b38b12c21b59c18ef0b.ts
-Suria,P2p://starvod.xyz:19806/2607915ccca64099a1ec2e2563f1f250.ts
-Vasantham,P2p://starvod.xyz:19806/67404d2b000163c22371405704f225ff.ts
-CNA,P2p://starvod.xyz:19806/ca904e6798794c97aa5655daea3662d4.ts
-Mediacorp U,P2p://starvod.xyz:19806/4f7f0c887f2b4559ac4be039fbc2eef5.ts
-東森亞洲衛視,P2p://starvod.xyz:19806/924207811e5443ffb12d90273233bd86.ts
-
-
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
+http://47.91.17.126:20002/Smartv.php?id=TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
+http://47.91.17.126:20002/Smartv1.php?id=TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
+http://47.91.17.126:20002/Smartv2.php?id=TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
+http://47.91.17.126:20002/Smartv3.php?id=TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
+http://47.91.17.126:20002/Smartv4.php?id=TV8
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 5.png" group-title="SmartTV",Channel 5
+http://47.91.17.126:20002/Smartv4.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Ch 5 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Ch 5 backup.png" group-title="SmartTV",Ch 5 backup
+http://47.91.17.126:20002/Smartv4.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8.png" group-title="SmartTV",Channel 8
+http://47.91.17.126:20002/Smartv4.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8 backup.png" group-title="SmartTV",Channel 8 backup
+http://47.91.17.126:20002/Smartv4.php?id=Ch8_mega
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U.png" group-title="SmartTV",Channel U
+http://47.91.17.126:20002/Smartv4.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U backup.png" group-title="SmartTV",Channel U backup
+http://47.91.17.126:20002/Smartv4.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Astro Premier" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Astro Premier.png" group-title="SmartTV",Astro Premier
+http://47.91.17.126:20002/Smartv4.php?id=Astropremier
+#EXTINF:-1 tvg-name="AEC" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/AEC.png" group-title="SmartTV",AEC
+http://47.91.17.126:20002/Smartv4.php?id=AEC
+#EXTINF:-1 tvg-name="华丽台" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/华丽台.png" group-title="SmartTV",华丽台
+http://47.91.17.126:20002/Smartv4.php?id=Wlt
+#EXTINF:-1 tvg-name="欢喜台" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/欢喜台.png" group-title="SmartTV",欢喜台
+http://47.91.17.126:20002/Smartv4.php?id=Huahee
+#EXTINF:-1 tvg-name="欢喜台 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/欢喜台 backup.png" group-title="SmartTV",欢喜台 backup
+http://47.91.17.126:20002/Smartv4.php?id=Huahee_backup
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Astro QJ.png" group-title="SmartTV",Astro QJ
+http://47.91.17.126:20002/Smartv4.php?id=Quanjia
+#EXTINF:-1 tvg-name="AOD" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/AOD.png" group-title="SmartTV",AOD
+http://47.91.17.126:20002/Smartv4.php?id=Aodhd
+#EXTINF:-1 tvg-name="One" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/One.png" group-title="SmartTV",One
+http://47.91.17.126:20002/Smartv4.php?id=One_mega
+#EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/爱奇艺 iQiyi.png" group-title="SmartTV",爱奇艺 iQiyi
+http://47.91.17.126:20002/Smartv4.php?id=Qiyi
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 5.png" group-title="SmartTV",Channel 5
+http://47.91.17.126:20002/Smartv3.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Ch 5 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Ch 5 backup.png" group-title="SmartTV",Ch 5 backup
+http://47.91.17.126:20002/Smartv3.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8.png" group-title="SmartTV",Channel 8
+http://47.91.17.126:20002/Smartv3.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8 backup.png" group-title="SmartTV",Channel 8 backup
+http://47.91.17.126:20002/Smartv3.php?id=Ch8_mega
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Suria.png" group-title="SmartTV",Suria
+http://47.91.17.126:20002/Smartv3.php?id=Suria Suria
+#EXTINF:-1 tvg-name="backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/backup.png" group-title="SmartTV",backup
+http://47.91.17.126:20002/Smartv3.php?id=Suria_backup
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U.png" group-title="SmartTV",Channel U
+http://47.91.17.126:20002/Smartv3.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U backup.png" group-title="SmartTV",Channel U backup
+http://47.91.17.126:20002/Smartv3.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U.png" group-title="SmartTV",Channel U
+http://47.91.17.126:20002/Smartv2.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U backup.png" group-title="SmartTV",Channel U backup
+http://47.91.17.126:20002/Smartv2.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U.png" group-title="SmartTV",Channel U
+http://47.91.17.126:20002/Smartv1.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U backup.png" group-title="SmartTV",Channel U backup
+http://47.91.17.126:20002/Smartv1.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 5.png" group-title="SmartTV",Channel 5
+http://47.91.17.126:20002/Smartv2.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Ch 5 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Ch 5 backup.png" group-title="SmartTV",Ch 5 backup
+http://47.91.17.126:20002/Smartv2.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8.png" group-title="SmartTV",Channel 8
+http://47.91.17.126:20002/Smartv2.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8 backup.png" group-title="SmartTV",Channel 8 backup
+http://47.91.17.126:20002/Smartv2.php?id=Ch8_mega
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 5.png" group-title="SmartTV",Channel 5
+http://47.91.17.126:20002/Smartv1.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Ch 5 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Ch 5 backup.png" group-title="SmartTV",Ch 5 backup
+http://47.91.17.126:20002/Smartv1.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8.png" group-title="SmartTV",Channel 8
+http://47.91.17.126:20002/Smartv1.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8 backup.png" group-title="SmartTV",Channel 8 backup
+http://47.91.17.126:20002/Smartv1.php?id=Ch8_mega
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U.png" group-title="SmartTV",Channel U
+http://47.91.17.126:20002/Smartv.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel U backup.png" group-title="SmartTV",Channel U backup
+http://47.91.17.126:20002/Smartv.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 5.png" group-title="SmartTV",Channel 5
+http://47.91.17.126:20002/Smartv.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Ch 5 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Ch 5 backup.png" group-title="SmartTV",Ch 5 backup
+http://47.91.17.126:20002/Smartv.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8.png" group-title="SmartTV",Channel 8
+http://47.91.17.126:20002/Smartv.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/Channel 8 backup.png" group-title="SmartTV",Channel 8 backup
+http://47.91.17.126:20002/Smartv.php?id=Ch8_mega
