@@ -1,5 +1,16 @@
 #EXTM3U x-tvg-url="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/pp.xml"
-
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV1.png" group-title="SmartTV",TV1
+http://47.91.17.126:20002/Smartv.php?id=TV1
+#EXTINF:-1 tvg-name="TV1 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV1 backup.png" group-title="SmartTV",TV1 backup
+http://47.91.17.126:20002/Smartv.php?id=TV1_backup
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV2.png" group-title="SmartTV",TV2
+http://47.91.17.126:20002/Smartv.php?id=TV2
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV3.png" group-title="SmartTV",TV3
+http://47.91.17.126:20002/Smartv.php?id=TV3
+#EXTINF:-1 tvg-name="TV3 backup" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV3 backup.png" group-title="SmartTV",TV3 backup
+http://47.91.17.126:20002/Smartv.php?id=tv3_twn
+#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/NTV7.png" group-title="SmartTV",NTV7
+http://47.91.17.126:20002/Smartv.php?id=NTV7
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
 http://47.91.17.126:20002/Smartv.php?id=TV8
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://webproxy.xoxoys.eu.org/https://epg.112114.eu.org/logo/TV8.png" group-title="SmartTV",TV8
