@@ -1,53 +1,12 @@
 TV0,#genre#
-#EXTINF:-1 group-title="其它频道",TV1
-https://live.catvod.com/catvod_com.php?id=TV1&token=336c1953c9d031c9a668ac023b7927b3f8b3941577b29f069cceaba5b306e113%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",TV1 backup
-https://live.catvod.com/catvod_com.php?id=TV1_backup&token=56cc12d454c5b1570ea420b1f21cbc7a27bf0e6e73e3883463add3d7920cbe10%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",TV2
-https://live.catvod.com/catvod_com.php?id=TV2&token=9914932bef640c4ef710bdb78c8cfe06016e7669df1bca35b19503f845164ed5%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",TV3
-https://live.catvod.com/catvod_com.php?id=TV3&token=d43aa145c7d75970cc89afb15a16389f50d400f7a3a0975b76507b7ec10926dd%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",TV3 SD
-https://live.catvod.com/catvod_com.php?id=TV3_mega&token=95aa8d12a9b19a8b88aae65fb1c36f881687333b338a17232d8eb62fad4fa36c%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",NTV7
-https://live.catvod.com/catvod_com.php?id=NTV7&token=51113dce46c8dbe228c40306e38aaee84fb2dc3c63b49e9be76d22ad9b8f2c78%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",TV8
-https://live.catvod.com/catvod_com.php?id=TV8&token=6988545457a4cb2540e78068bac36e488e19cf5c9a73cd3535bae42cdcc31398%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+TV1,https://live.catvod.com/catvod_com.php?id=TV1&token=336c1953c9d031c9a668ac023b7927b3f8b3941577b29f069cceaba5b306e113%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+TV8,https://live.catvod.com/catvod_com.php?id=TV8&token=6988545457a4cb2540e78068bac36e488e19cf5c9a73cd3535bae42cdcc31398%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
 Channel 5 HD,https://live.catvod.com/catvod_com.php?id=Channel5HD&token=0abbefaed52ded5e96a04712729e5cb2613134e65cfcc051583bd6d68585248c%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
 Channel 8 HD,https://live.catvod.com/catvod_com.php?id=Channel8HD&token=d428c85876e300ac0a03a7282d1b86e4fd06a58f768c9bc834c4a7464b2bbdfd%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
 Channel U HD,https://live.catvod.com/catvod_com.php?id=ChannelU&token=cd9c6fff5b130197f129c7466743a4c6e96132360a884929d2e1468287e744ad%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",MeWatch Ch 5
-https://live.catvod.com/catvod_com.php?id=Mewatch_ch5&token=29dd035143f96bdbb40005a00a757fbe4e92a7f4996d51468e347d7bcb1805eb%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",MeWatch Ch 8
-https://live.catvod.com/catvod_com.php?id=Mewatch_ch8&token=720ff052694ae5b5a443d38f75d01a9d7201fe5fdf12625e4912e97e97334197%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",MeWatch Ch U
-https://live.catvod.com/catvod_com.php?id=Mewatch_chU&token=84a2955656087b1ccb73ecb9254a30bb15a8a84f9c01ffd77d3aa636050f9b5d%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",AEC
-https://live.catvod.com/catvod_com.php?id=AEC&token=6466fc7defa30ced426481f90f556e81a7cabad62ed96ed9dbe4fa9363b55844%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",华丽台 HD （Wah Lai Toi）
-https://live.catvod.com/catvod_com.php?id=Wlt&token=404170701ef2d87177c97a6b87cfa8edab42251bd304966d30fc4e3057545da3%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",欢喜台 HD （Hua Hee Tai）
-https://live.catvod.com/catvod_com.php?id=Huahee&token=32c423466140457f5bf8d38dde7e0f6191472f28a1acebeb4a89cbb7b94a1b02%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="其它频道",Astro QJ
-https://live.catvod.com/catvod_com.php?id=Quanjia&token=5e66423b0dc15e9c27f9a474867b9a68fca50dd09e4651326af384876c532b71%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Premier League 1
-https://live.catvod.com/catvod_com.php?id=go_assp1&token=202c566db98291cfc6f5f8f3d39d1cd8a26f3cf74fa444fca7a798f7f8202a1a%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro EPL 1 backup
-https://live.catvod.com/catvod_com.php?id=go_assp1x&token=d91d48d4a4068912d65817095e6e5e4e164383ad250921a7b66c81d05f5675cd%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Premier League 2
-https://live.catvod.com/catvod_com.php?id=go_assp2&token=fdb4d097e53e6c5adcc1fc32de6195340f9f56c8390911d76bd9c175c4cb0d87%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Grandstand
-https://live.catvod.com/catvod_com.php?id=go_assp3&token=9730252bc395ba471f69fd9f74019847a352cd70cdf5bd4ec32dfae929545276%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Football
-https://live.catvod.com/catvod_com.php?id=go_assp4&token=3f366d2a61680ece5c85d46b58f05f8de63564a5ad05e57b0451b0eceeb68831%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Sports Plus
-https://live.catvod.com/catvod_com.php?id=go_sportsplus&token=92b7667b2dfceeaa04cc904f220d72f58439224e677605e1b6265e5643b2a669%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Badminton 1
-https://live.catvod.com/catvod_com.php?id=go_badminton1&token=24c5f89d183108ba65842cb8a2f2878f57bae3ccbd3644686496a26a26197eec%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro Badminton 2
-https://live.catvod.com/catvod_com.php?id=go_badminton2&token=d1bceaf31e14cb184d5d3924109eab39a19f1b1cdd73e66f4cbeadf516005cd8%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
-#EXTINF:-1 group-title="体育频道",Astro W-Sports
-https://live.catvod.com/catvod_com.php?id=go_assp5&token=bfe45147e8c6a53c0eb374bf53b0f7250f711306403577d44ff7a227b5169c9d%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+AEC,https://live.catvod.com/catvod_com.php?id=AEC&token=6466fc7defa30ced426481f90f556e81a7cabad62ed96ed9dbe4fa9363b55844%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+华丽台 HD （Wah Lai Toi,https://live.catvod.com/catvod_com.php?id=Wlt&token=404170701ef2d87177c97a6b87cfa8edab42251bd304966d30fc4e3057545da3%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+欢喜台 HD （Hua Hee Tai,https://live.catvod.com/catvod_com.php?id=Huahee&token=32c423466140457f5bf8d38dde7e0f6191472f28a1acebeb4a89cbb7b94a1b02%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
 astro欢喜台,https://smt.520761.xyz/Smart.php?id=Huahee
 astroQJ,https://smt.520761.xyz/Smart.php?id=Quanjia
 Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
@@ -56,8 +15,8 @@ Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
 Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-Astro Badminton 1,http://php.jdshipin.com/smt.php?id=go_badminton1
-Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+Astro Badminton 1,https://live.catvod.com/catvod_com.php?id=go_badminton1&token=24c5f89d183108ba65842cb8a2f2878f57bae3ccbd3644686496a26a26197eec%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
+Astro Badminton 2,https://live.catvod.com/catvod_com.php?id=go_badminton2&token=d1bceaf31e14cb184d5d3924109eab39a19f1b1cdd73e66f4cbeadf516005cd8%3A1759383091%3AMTE1LjEzNC4xNS45Nw%3D%3D
 Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
@@ -66,4 +25,5 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 
