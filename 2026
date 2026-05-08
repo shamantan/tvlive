@@ -1,20 +1,12 @@
 Main,#genre#
-AOD,https://o11.163189.xyz/stream/live/aod/
-AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro Badminton 1,https://zb.kklive.top/smt.php?id=go_badminton1
 Astro Badminton 2,https://zb.kklive.top/smt.php?id=go_badminton2
-ASTROAOD,http://o11.163189.xyz/stream/live/aod/
-ASTROAEC,http://o11.163189.xyz/stream/live/aec/
-ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
-IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 8THD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXgBayV2BNU-Rh716ys796kilYQCoL5siZYVibxDrrurachFelDZNMw170L-YhVFRaaTs5n_UqLIVuzf1-41CVuJGe2DNn2TS7fKpp74r4PZvrfBuCvUExLXSVv4ibJuF46yxMTHnA-YKO2N3iu40DQgdLqj_V7KfvPCx5ZJLf64Oq247xvPRDPOE4_F0jukdO1kkqf3SmGakuH9DB4Z0hQ.m3u8?u=1756878715
 CH-5HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCR7-liXelC3Ys6o7xqrtgqmyXcXnrP6H4y71OWc1LIyiO_G0G3JZ7Lw69ApJWikTMHIRJtOcyAkjbISgCek572wTbqlClpWSZ5Rt13sgOWyM4H0_ZEciPFoo9zdDCylisJa6VHKL9keQqVW8JDRDwBXrxlpbZknsdfPLeyeOqngd-Uy6hA4U4hXFDeMSSGLWi4BeMGHRcRxd2-Y6LI85_Q.m3u8?u=1756878715
 CH-8HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_NZQ6gqCAe4oq9FPL4d_jn6VxjGaecNNWsuvMZ3Y8VTnbOJ95-5y3Aes3eSHzm-1I6i5RCsfnqhMJwaLyQYtrf7KX-M2ZaRkej2jvu8rSDfFuPTTFGGRHx3LtuMIbbhiYHp-HGGAYzjFQs1vKgrnMueYT8Yia-iqSCG5JzbRaf52sv3YqCb6OK2vNA-JOhtpcqyGZQNqp8UGmws1vDnScA.m3u8?u=1756878715
@@ -48,18 +40,18 @@ astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36
 astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
 astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
 astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
+
 Malaysia,#genre#
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-八度空间2,http://cdn6.163189.xyz/163189/8tv
+ASTROAOD,http://o11.163189.xyz/stream/live/aod/
+ASTROAEC,http://o11.163189.xyz/stream/live/aec/
+ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
+IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/
+八度空间,http://cdn6.163189.xyz/163189/8tv
+
 少儿,#genre#
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
 Cartoon Network Japan,https://nl.utako.moe/cartoon_network/index.m3u8
@@ -91,6 +83,7 @@ KIDS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
 林正英,http://74.91.26.218:82/live/vllzy.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
+
 音乐,#genre#
 车载DJ串烧点播❶,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465247443616945_hlsb.m3u8
 车载DJ串烧点播❷,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154098359410997_hlsb.m3u8
