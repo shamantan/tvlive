@@ -119,7 +119,43 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-
-
-
-
+世界杯 FIFA26,#genre#
+CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
+cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+å°è§†,http://74.91.26.218:82/live/ttv.m3u8
+TSN4,http://wickediptv.xyz/Randall123/Randall321/53805
+TSN3,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/69660
+BBC1,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
+BBC One UK 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+BBC One UK 05,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/77361
+Bein Sports Max 1 FHDÂ°,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1944363.m3u8
+Bein Sports Max 6 4KÂ°,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1944362.m3u8
+beIN SPORTS MAX 1,http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357
+BEIN MAX 1 FHD,http://asmr4k.world:8080/live/05347247405/3100934708/1246126.m3u8
+BEIN MAX 1 FHD,http://asmr4k.world:8080/05347247405/3100934708/1246126
+BEIN MAX 2 FHD,http://asmr4k.world:8080/05347247405/3100934708/1246127
+BEIN MAX 1 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295245
+BEIN MAX 2 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295246
+BEIN MAX 3 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295248
+WC: ITV 1,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120268.m3u8
+WC: TSN 1 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120273.m3u8
+WC: TSN 2 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120274.m3u8
+WC: TSN 3 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120275.m3u8
+WC: TSN 4 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120276.m3u8
+FS1 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
+FS1 02,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1236473
+Fussball TV 1 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1949445
+Fussball TV 2 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950358
+Fussball TV 3 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951087
+FIFAWC 2026 01,http://wickediptv.xyz/Randall123/Randall321/340018
+FIFAWC 2026 02,http://wickediptv.xyz/Randall123/Randall321/340019
+FIFA WC 01:,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1949744.m3u8
+FIFA WC 02:,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1949745.m3u8
+TSN 4K CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+BBC 4K UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
