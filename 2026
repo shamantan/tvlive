@@ -1,11 +1,11 @@
 Main,#genre#
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro AEC,https://stream1.freetv.fun/a8578a3021a6facb4c34da86a02be9535252cbbb41c418f365b98d0d4a3a1ed0.ctv
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro Badminton 1,https://zb.kklive.top/smt.php?id=go_badminton1
+Astro Badminton 1,https://stream1.freetv.fun/24b22f036065c51f3bbbd8b4724df4cb6229309d7afd955830607cfa96d09971.ctv
 Astro Badminton 2,https://zb.kklive.top/smt.php?id=go_badminton2
 8THD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXgBayV2BNU-Rh716ys796kilYQCoL5siZYVibxDrrurachFelDZNMw170L-YhVFRaaTs5n_UqLIVuzf1-41CVuJGe2DNn2TS7fKpp74r4PZvrfBuCvUExLXSVv4ibJuF46yxMTHnA-YKO2N3iu40DQgdLqj_V7KfvPCx5ZJLf64Oq247xvPRDPOE4_F0jukdO1kkqf3SmGakuH9DB4Z0hQ.m3u8?u=1756878715
 CH-5HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCR7-liXelC3Ys6o7xqrtgqmyXcXnrP6H4y71OWc1LIyiO_G0G3JZ7Lw69ApJWikTMHIRJtOcyAkjbISgCek572wTbqlClpWSZ5Rt13sgOWyM4H0_ZEciPFoo9zdDCylisJa6VHKL9keQqVW8JDRDwBXrxlpbZknsdfPLeyeOqngd-Uy6hA4U4hXFDeMSSGLWi4BeMGHRcRxd2-Y6LI85_Q.m3u8?u=1756878715
@@ -50,7 +50,9 @@ ASTROAEC,http://o11.163189.xyz/stream/live/aec/
 ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
 IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
-八度空间,http://cdn6.163189.xyz/163189/8tv
+八度空间,https://cdn6.123.rr.kg/163189/8tv
+八度空间2,https://cdn6.cc.cd/163189/8tv
+八度空间3,http://rihou.cc:555/tv/[Pd]八度空间
 
 少儿,#genre#
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
