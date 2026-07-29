@@ -1,58 +1,33 @@
 Main,#genre#
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AOD,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/aod/
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://stream1.freetv.fun/a8578a3021a6facb4c34da86a02be9535252cbbb41c418f365b98d0d4a3a1ed0.ctv
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+Astro欢喜台,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/hxt/
+Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+爱奇艺,http://e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fzqjy.info%2Ftv%2FODE2NDg2%3Fchannel%3D%25E7%2588%25B1%25E5%25A5%2587%25E8%2589%25BA&j=http%3A%2F%2Fzqjy.info%2Ftv%2FNzk0MDAx
+爱奇艺,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/iqiyi/
 Astro Badminton 1,https://stream1.freetv.fun/24b22f036065c51f3bbbd8b4724df4cb6229309d7afd955830607cfa96d09971.ctv
-Astro Badminton 2,https://zb.kklive.top/smt.php?id=go_badminton2
-8THD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXgBayV2BNU-Rh716ys796kilYQCoL5siZYVibxDrrurachFelDZNMw170L-YhVFRaaTs5n_UqLIVuzf1-41CVuJGe2DNn2TS7fKpp74r4PZvrfBuCvUExLXSVv4ibJuF46yxMTHnA-YKO2N3iu40DQgdLqj_V7KfvPCx5ZJLf64Oq247xvPRDPOE4_F0jukdO1kkqf3SmGakuH9DB4Z0hQ.m3u8?u=1756878715
-CH-5HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCR7-liXelC3Ys6o7xqrtgqmyXcXnrP6H4y71OWc1LIyiO_G0G3JZ7Lw69ApJWikTMHIRJtOcyAkjbISgCek572wTbqlClpWSZ5Rt13sgOWyM4H0_ZEciPFoo9zdDCylisJa6VHKL9keQqVW8JDRDwBXrxlpbZknsdfPLeyeOqngd-Uy6hA4U4hXFDeMSSGLWi4BeMGHRcRxd2-Y6LI85_Q.m3u8?u=1756878715
-CH-8HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_NZQ6gqCAe4oq9FPL4d_jn6VxjGaecNNWsuvMZ3Y8VTnbOJ95-5y3Aes3eSHzm-1I6i5RCsfnqhMJwaLyQYtrf7KX-M2ZaRkej2jvu8rSDfFuPTTFGGRHx3LtuMIbbhiYHp-HGGAYzjFQs1vKgrnMueYT8Yia-iqSCG5JzbRaf52sv3YqCb6OK2vNA-JOhtpcqyGZQNqp8UGmws1vDnScA.m3u8?u=1756878715
-CH-8HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_NZQ6gqCAe4oq9FPL4d_jn6VxjGaecNNWsuvMZ3Y8VTnbOJ95-5y3Aes3eSHzm-1I6i5RCsfnqhMJwaLyQYtrf7KX-M2ZaRkej2jvu8rSDfFuPTTFGGRHx3LtuMIbbhiYHp-HGGAYzjFQs1vKgrnMueYT8Yia-iqSCG5JzbRaf52sv3YqCb6OK2vNA-JOhtpcqyGZQNqp8UGmws1vDnScA.m3u8?u=1756878715
-CH-UHD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1kF6EdGoPZ9f2piynx1_mPLndQbcT0wgbVg_sl4YUSIZy9vVPuBm2WjpbiQIQJ_eXoJg5Hj7JMlz11uwIbKTMffydefUauHuRF5p6w5pwNlI6NSOQqbxCzrGI9kNc26yyK9TsuqwRUBzgSjanXZhfnwOMDm4UdJ_0vMB7W3AKaF3Gx51g9wIG9h6S4XX8JDCWdYbt76-cbqOFTv3lkTQAA.m3u8?u=1756878715
-CH-UHD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1kF6EdGoPZ9f2piynx1_mPLndQbcT0wgbVg_sl4YUSIZy9vVPuBm2WjpbiQIQJ_eXoJg5Hj7JMlz11uwIbKTMffydefUauHuRF5p6w5pwNlI6NSOQqbxCzrGI9kNc26yyK9TsuqwRUBzgSjanXZhfnwOMDm4UdJ_0vMB7W3AKaF3Gx51g9wIG9h6S4XX8JDCWdYbt76-cbqOFTv3lkTQAA.m3u8?u=1756878715
-CH-5HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCR7-liXelC3Ys6o7xqrtgqmyXcXnrP6H4y71OWc1LIyiO_G0G3JZ7Lw69ApJWikTMHIRJtOcyAkjbISgCek572wTbqlClpWSZ5Rt13sgOWyM4H0_ZEciPFoo9zdDCylisJa6VHKL9keQqVW8JDRDwBXrxlpbZknsdfPLeyeOqngd-Uy6hA4U4hXFDeMSSGLWi4BeMGHRcRxd2-Y6LI85_Q.m3u8?u=1756878715
-CH-8HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_NZQ6gqCAe4oq9FPL4d_jn6VxjGaecNNWsuvMZ3Y8VTnbOJ95-5y3Aes3eSHzm-1I6i5RCsfnqhMJwaLyQYtrf7KX-M2ZaRkej2jvu8rSDfFuPTTFGGRHx3LtuMIbbhiYHp-HGGAYzjFQs1vKgrnMueYT8Yia-iqSCG5JzbRaf52sv3YqCb6OK2vNA-JOhtpcqyGZQNqp8UGmws1vDnScA.m3u8?u=1756878715
-CH-UHD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1kF6EdGoPZ9f2piynx1_mPLndQbcT0wgbVg_sl4YUSIZy9vVPuBm2WjpbiQIQJ_eXoJg5Hj7JMlz11uwIbKTMffydefUauHuRF5p6w5pwNlI6NSOQqbxCzrGI9kNc26yyK9TsuqwRUBzgSjanXZhfnwOMDm4UdJ_0vMB7W3AKaF3Gx51g9wIG9h6S4XX8JDCWdYbt76-cbqOFTv3lkTQAA.m3u8?u=1756878715
+Astro Badminton 2,http://e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fzqjy.info%2Ftv%2FODA0MTYy%3Fchannel%3DAstro%2520Badminton%2520HD&j=http%3A%2F%2Fzqjy.info%2Ftv%2FODEyODAz
 astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
-astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
-astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
-astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
-astro Premier League 2,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGauR7-tcsqB_2FoGn5T5T0BxhZh13rPifWsXOYqRCAkI_1oKX9G7M4AtFmvNNI1qtnq9RI9dWrQ3BeDcfIfF_9VAOfgmE_Z4A9hWdaIA6HBqU0NNUwY5-ozd4dUQoRZUFS--vh7Jyr6YHJhfAnBPB43YevE-p6VbRWtzAASJ3MauyOyp5j9KpR-KKz_ycfx243EM4r1-ZoHDB81yiBB_E-iVMUxyqj79AAZvaq_Y1mCo.m3u8?u=1757123819
-astro Premier League 2,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGauR7-tcsqB_2FoGn5T5T0BxhZh13rPifWsXOYqRCAkI_1oKX9G7M4AtFmvNNI1qtnq9RI9dWrQ3BeDcfIfF_9VAOfgmE_Z4A9hWdaIA6HBqU0NNUwY5-ozd4dUQoRZUFS--vh7Jyr6YHJhfAnBPB43YevE-p6VbRWtzAASJ3MauyOyp5j9KpR-KKz_ycfx243EM4r1-ZoHDB81yiBB_E-iVMUxyqj79AAZvaq_Y1mCo.m3u8?u=1757123819
-astro Premier League 2,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGauR7-tcsqB_2FoGn5T5T0BxhZh13rPifWsXOYqRCAkI_1oKX9G7M4AtFmvNNI1qtnq9RI9dWrQ3BeDcfIfF_9VAOfgmE_Z4A9hWdaIA6HBqU0NNUwY5-ozd4dUQoRZUFS--vh7Jyr6YHJhfAnBPB43YevE-p6VbRWtzAASJ3MauyOyp5j9KpR-KKz_ycfx243EM4r1-ZoHDB81yiBB_E-iVMUxyqj79AAZvaq_Y1mCo.m3u8?u=1757123819
-astro Premier League 2,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGauR7-tcsqB_2FoGn5T5T0BxhZh13rPifWsXOYqRCAkI_1oKX9G7M4AtFmvNNI1qtnq9RI9dWrQ3BeDcfIfF_9VAOfgmE_Z4A9hWdaIA6HBqU0NNUwY5-ozd4dUQoRZUFS--vh7Jyr6YHJhfAnBPB43YevE-p6VbRWtzAASJ3MauyOyp5j9KpR-KKz_ycfx243EM4r1-ZoHDB81yiBB_E-iVMUxyqj79AAZvaq_Y1mCo.m3u8?u=1757123819
-astro Grandstand,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8?u=1757123819
-astro Grandstand,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8?u=1757123819
-astro Grandstand,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8?u=1757123819
 astro Grandstand,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8?u=1757123819
 Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
 Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
-Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
-Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
-astro Football,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtUF5hWcnbN21D1bEX2Ikh7X9eFM3uUqopQgbxmYuZB4v5x8YW5fdTM-8f1_Oak5VCYWsywVlf5oAM9KNXorCeSRMxLBmm5TmXnpZEMnuoh49L6JLTZ1_JYhSYsUqfAH1Zw13QJVuR30UmdsuPCGsI-_e5iynKslCLNc0naIrMmngkW_AXinB6JItR-4szx0_xKMhFLP_r6HyRBUrOyktEQ.m3u8?u=1757123819
-astro Football,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtUF5hWcnbN21D1bEX2Ikh7X9eFM3uUqopQgbxmYuZB4v5x8YW5fdTM-8f1_Oak5VCYWsywVlf5oAM9KNXorCeSRMxLBmm5TmXnpZEMnuoh49L6JLTZ1_JYhSYsUqfAH1Zw13QJVuR30UmdsuPCGsI-_e5iynKslCLNc0naIrMmngkW_AXinB6JItR-4szx0_xKMhFLP_r6HyRBUrOyktEQ.m3u8?u=1757123819
-astro Football,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtUF5hWcnbN21D1bEX2Ikh7X9eFM3uUqopQgbxmYuZB4v5x8YW5fdTM-8f1_Oak5VCYWsywVlf5oAM9KNXorCeSRMxLBmm5TmXnpZEMnuoh49L6JLTZ1_JYhSYsUqfAH1Zw13QJVuR30UmdsuPCGsI-_e5iynKslCLNc0naIrMmngkW_AXinB6JItR-4szx0_xKMhFLP_r6HyRBUrOyktEQ.m3u8?u=1757123819
-astro Football,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtUF5hWcnbN21D1bEX2Ikh7X9eFM3uUqopQgbxmYuZB4v5x8YW5fdTM-8f1_Oak5VCYWsywVlf5oAM9KNXorCeSRMxLBmm5TmXnpZEMnuoh49L6JLTZ1_JYhSYsUqfAH1Zw13QJVuR30UmdsuPCGsI-_e5iynKslCLNc0naIrMmngkW_AXinB6JItR-4szx0_xKMhFLP_r6HyRBUrOyktEQ.m3u8?u=1757123819
-astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
-astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
-astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
 astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
 
 Malaysia,#genre#
-CH5,http://cdn6.163189.xyz/163189/ch5
-CH8,http://cdn6.163189.xyz/163189/ch8
-CHU,http://cdn6.163189.xyz/163189/chu
-ASTROAOD,http://o11.163189.xyz/stream/live/aod/
-ASTROAEC,http://o11.163189.xyz/stream/live/aec/
-ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
-IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
+CH5,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/ch5
+CH5,https://cdn6.cc.cd/163189/ch5
+CH8,https://cdn.qd.je/163189.php?id=ch8
+CH8,https://cdn6.123.rr.kg/163189/ch8
+CHU,https://cdn6.cc.cd/163189/chu
+CHU,https://cdn6.123.rr.kg/163189/chu
 八度空间,https://cdn6.123.rr.kg/163189/8tv
-八度空间2,https://cdn6.cc.cd/163189/8tv
-八度空间3,http://rihou.cc:555/tv/[Pd]八度空间
+八度空间,https://cdn6.cc.cd/163189/8tv
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 少儿,#genre#
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
@@ -76,6 +51,7 @@ Disney Channel (CS),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
 Disney Junior English,http://portal-iptv.net:8080/077998950140/077998950140/439
 DONGTHAP TV,https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
 KIDS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+
 剧集/电影,#genre#
 周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
@@ -85,44 +61,3 @@ KIDS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
 林正英,http://74.91.26.218:82/live/vllzy.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
-
-世界杯 FIFA26,#genre#
-CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
-cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
-cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
-cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
-å°è§†,http://74.91.26.218:82/live/ttv.m3u8
-TSN4,http://wickediptv.xyz/Randall123/Randall321/53805
-TSN3,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/69660
-BBC1,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
-BBC One UK 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-BBC One UK 05,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/77361
-Bein Sports Max 1 FHDÂ°,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1944363.m3u8
-Bein Sports Max 6 4KÂ°,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1944362.m3u8
-beIN SPORTS MAX 1,http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1944357
-BEIN MAX 1 FHD,http://asmr4k.world:8080/live/05347247405/3100934708/1246126.m3u8
-BEIN MAX 1 FHD,http://asmr4k.world:8080/05347247405/3100934708/1246126
-BEIN MAX 2 FHD,http://asmr4k.world:8080/05347247405/3100934708/1246127
-BEIN MAX 1 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295245
-BEIN MAX 2 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295246
-BEIN MAX 3 FHD G,http://asmr4k.world:8080/05347247405/3100934708/1295248
-WC: ITV 1,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120268.m3u8
-WC: TSN 1 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120273.m3u8
-WC: TSN 2 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120274.m3u8
-WC: TSN 3 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120275.m3u8
-WC: TSN 4 HD,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120276.m3u8
-FS1 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
-FS1 02,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1236473
-Fussball TV 1 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1949445
-Fussball TV 2 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950358
-Fussball TV 3 DE,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951087
-FIFAWC 2026 01,http://wickediptv.xyz/Randall123/Randall321/340018
-FIFAWC 2026 02,http://wickediptv.xyz/Randall123/Randall321/340019
-FIFA WC 01:,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1949744.m3u8
-FIFA WC 02:,http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1949745.m3u8
-TSN 4K CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-BBC 4K UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
