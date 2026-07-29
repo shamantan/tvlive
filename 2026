@@ -1,12 +1,16 @@
 Main,#genre#
 Astro AOD,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/aod/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astro AOD SX,http://rihou.cc:555/tv/[SX]Astroaod
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro AEC SX,http://rihou.cc:555/tv/[SX]AstroAec
 Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+Astro QJ SX,http://rihou.cc:555/tv/[SX]Astro_QJ
 Astro欢喜台,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/hxt/
-Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
+Astro欢喜台-2,https://cdn.qd.je/163189.php?id=hxt
+Astro欢喜台-3,http://rihou.cc:555/tv/[SX]Astro欢喜
 爱奇艺,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/iqiyi/
-爱奇艺,http://e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fzqjy.info%2Ftv%2FODE2NDg2%3Fchannel%3D%25E7%2588%25B1%25E5%25A5%2587%25E8%2589%25BA&j=http%3A%2F%2Fzqjy.info%2Ftv%2FNzk0MDAx
+爱奇艺-2,http://rihou.cc:555/tv/[SX]Astro爱奇
 Astro Badminton 1,https://stream1.freetv.fun/24b22f036065c51f3bbbd8b4724df4cb6229309d7afd955830607cfa96d09971.ctv
 Astro Badminton 2,http://e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fzqjy.info%2Ftv%2FODA0MTYy%3Fchannel%3DAstro%2520Badminton%2520HD&j=http%3A%2F%2Fzqjy.info%2Ftv%2FODEyODAz
 astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
@@ -17,12 +21,15 @@ astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36
 
 Malaysia,#genre#
 CH5,https://cdn6.123.rr.kg/163189/ch5
-CH5-2,https://cdn6.cc.cd/163189/ch5
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH5 cd,https://cdn6.cc.cd/163189/ch5
 CH8,https://cdn6.123.rr.kg/163189/ch8
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 CHU,https://cdn6.123.rr.kg/163189/chu
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 八度空间,https://cdn6.123.rr.kg/163189/8tv
 八度空间,https://cdn6.cc.cd/163189/8tv
-八度空间,http://rihou.cc:555/tv/[Pd]八度空间
+八度空间Pd,http://rihou.cc:555/tv/[Pd]八度空间
 
 少儿,#genre#
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
