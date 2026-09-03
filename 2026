@@ -30,36 +30,22 @@ CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 八度空间,https://cdn6.123.rr.kg/163189/8tv
 八度空间,https://cdn6.cc.cd/163189/8tv
 八度空间Pd,http://rihou.cc:555/tv/[Pd]八度空间
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png" group-title="新马海外",Channel 5
-https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png" group-title="新马海外",Channel 5
-https://cdn.qd.je/163189.php?id=ch5
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png" group-title="新马海外",Channel 5
-http://c.123.rr.kg/163189/ch5
-#EXTINF:-1 tvg-id="8频道" tvg-name="8频道" tvg-logo="https://live.fanmingming.cn/tv/8频道.png" group-title="新马海外",8频道
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="8频道" tvg-name="8频道" tvg-logo="https://live.fanmingming.cn/tv/8频道.png" group-title="新马海外",8频道
-https://cdn.qd.je/163189.php?id=ch8
-#EXTINF:-1 tvg-id="8频道" tvg-name="8频道" tvg-logo="https://live.fanmingming.cn/tv/8频道.png" group-title="新马海外",8频道
-http://c.123.rr.kg/163189/ch8
-#EXTINF:-1 tvg-id="U频道" tvg-name="U频道" tvg-logo="https://live.fanmingming.cn/tv/U频道.png" group-title="新马海外",U频道
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="U频道" tvg-name="U频道" tvg-logo="https://live.fanmingming.cn/tv/U频道.png" group-title="新马海外",U频道
-https://cdn.qd.je/163189.php?id=chu
-#EXTINF:-1 tvg-id="U频道" tvg-name="U频道" tvg-logo="https://live.fanmingming.cn/tv/U频道.png" group-title="新马海外",U频道
-http://c.123.rr.kg/163189/chu
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://live.fanmingming.cn/tv/八度空间.png" group-title="新马海外",八度空间
-https://cdn.qd.je/163189/8tv
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://live.fanmingming.cn/tv/八度空间.png" group-title="新马海外",八度空间
-https://cdn.qd.je/163189.php?id=8tv
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://live.fanmingming.cn/tv/八度空间.png" group-title="新马海外",八度空间
-http://c.123.rr.kg/163189/8tv
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png" group-title="新马海外",Astro AOD
-https://cdn.qd.je/163189/aod
-#EXTINF:-1 tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro 欢喜台.png" group-title="新马海外",Astro 欢喜台
-https://cdn.qd.je/163189/hxt
-#EXTINF:-1 tvg-id="爱奇艺(大马)" tvg-name="爱奇艺(大马)" tvg-logo="https://live.fanmingming.cn/tv/爱奇艺(大马).png" group-title="新马海外",爱奇艺(大马)
-https://cdn.qd.je/163189/iqiyi
+Channel 5,https://cdn.qd.je/163189/ch5
+Channel 5-1,https://cdn.qd.je/163189.php?id=ch5
+Channel 5-2,http://c.123.rr.kg/163189/ch5
+8频道,https://cdn.qd.je/163189/ch8
+8频道2,https://cdn.qd.je/163189.php?id=ch8
+8频道3,http://c.123.rr.kg/163189/ch8
+U频道,https://cdn.qd.je/163189/chu
+U频道2,https://cdn.qd.je/163189.php?id=chu
+U频道3,http://c.123.rr.kg/163189/chu
+八度空间ex,https://cdn.qd.je/163189/8tv
+八度空间2,https://cdn.qd.je/163189.php?id=8tv
+八度空间3,http://c.123.rr.kg/163189/8tv
+Astro AOD,https://cdn.qd.je/163189/aod
+Astro 欢喜台,https://cdn.qd.je/163189/hxt
+爱奇艺(大马),https://cdn.qd.je/163189/iqiyi
+
 少儿,#genre#
 Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
 Cartoon Network Japan,https://nl.utako.moe/cartoon_network/index.m3u8
