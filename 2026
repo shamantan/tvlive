@@ -1,81 +1,116 @@
-Main,#genre#
-Astro AOD,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/aod/
-Astro AOD,https://cdn3.indevs.in/stream/live/aod/
-Astro AOD SX,http://rihou.cc:555/tv/[SX]Astroaod
-Astro AEC,https://cdn3.indevs.in/stream/live/aec/
-Astro AEC SX,http://rihou.cc:555/tv/[SX]AstroAec
-Astro QJ,https://cdn3.indevs.in/stream/live/qj/
-Astro QJ SX,http://rihou.cc:555/tv/[SX]Astro_QJ
-Astro欢喜台,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/hxt/
-Astro欢喜台-2,https://cdn.qd.je/163189.php?id=hxt
-Astro欢喜台-3,http://rihou.cc:555/tv/[SX]Astro欢喜
-爱奇艺,https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/live/iqiyi/
-爱奇艺-2,http://rihou.cc:555/tv/[SX]Astro爱奇
-Astro Badminton 1,https://stream1.freetv.fun/24b22f036065c51f3bbbd8b4724df4cb6229309d7afd955830607cfa96d09971.ctv
-Astro Badminton 2,http://e.dtscout.com/e/?v=1a&pid=5200&site=1&l=http%3A%2F%2Fzqjy.info%2Ftv%2FODA0MTYy%3Fchannel%3DAstro%2520Badminton%2520HD&j=http%3A%2F%2Fzqjy.info%2Ftv%2FODEyODAz
-astro Premier League,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8?u=1757123819
-astro Grandstand,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8?u=1757123819
-Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
-Astro Badminton,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLHbpQ50wRdyofaQPsdSOsQ8ZcaRw862hOdsNj2ETQdAwYkVw9L7e7_55lNrtZ_gsSpgfVHoXC1cSGuFh7HKPj5XJYbAbt1RjUY5n9LH2Yejv_ivZhQTki6bTIsyuFekheQ_1890YP_e-5YTdT6OR55fkOYBSC3_yD0AvOGc7lXIqrX7FMLFH-00RWuAOSpqVvjCfYeqwCabbUuxQC3w3IA.m3u8?u=1757123819
-astro Sports Plus,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8?u=1757123819
+#EXTM3U
 
-Malaysia,#genre#
-CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn6.123.rr.kg/163189/ch8
-Channel 8,https://cdn.qd.je/163189/ch8
-CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
-CHU,https://cdn6.123.rr.kg/163189/chu
-Channel U,https://cdn.qd.je/163189/chu
-CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
-八度空間Oct,https://cdn.qd.je/163189/8tv
-八度空间,https://cdn6.123.rr.kg/163189/8tv
-八度空间,https://cdn6.cc.cd/163189/8tv
-八度空间Pd,http://rihou.cc:555/tv/[Pd]八度空间
-Channel 5,https://cdn.qd.je/163189/ch5
-Channel 5-1,https://cdn.qd.je/163189.php?id=ch5
-Channel 5-2,http://c.123.rr.kg/163189/ch5
-8频道,https://cdn.qd.je/163189/ch8
-8频道2,https://cdn.qd.je/163189.php?id=ch8
-8频道3,http://c.123.rr.kg/163189/ch8
-U频道,https://cdn.qd.je/163189/chu
-U频道2,https://cdn.qd.je/163189.php?id=chu
-U频道3,http://c.123.rr.kg/163189/chu
-八度空间ex,https://cdn.qd.je/163189/8tv
-八度空间2,https://cdn.qd.je/163189.php?id=8tv
-八度空间3,http://c.123.rr.kg/163189/8tv
-Astro AOD,https://cdn.qd.je/163189/aod
-Astro 欢喜台,https://cdn.qd.je/163189/hxt
-爱奇艺(大马),https://cdn.qd.je/163189/iqiyi
+#######################
+# Main
+#######################
 
-少儿,#genre#
-Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
-Cartoon Network Japan,https://nl.utako.moe/cartoon_network/index.m3u8
-Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
-Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=6
-卡酷少儿,http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-浙江少儿,http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
-Disney Channel (CS),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
-Disney Junior English,http://portal-iptv.net:8080/077998950140/077998950140/439
-DONGTHAP TV,https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
-KIDS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+#EXTINF:-1 group-title="Main",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
 
-剧集/电影,#genre#
-周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
-周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
-成龙,http://74.91.26.218:82/live/vlcl.m3u8
-成龙电影,http://107.150.60.122/live/lbcl.m3u8
-少年包青天,http://74.91.26.218:82/live/vlsnbqt.m3u8
-早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
-林正英,http://74.91.26.218:82/live/vllzy.m3u8
-林正英影院,http://107.150.60.122/live/lblzy.m3u8
+#EXTINF:-1 group-title="Main",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+
+#EXTINF:-1 group-title="Main",Astro QJ
+https://cdn3.indevs.in/stream/live/qj/
+
+#EXTINF:-1 group-title="Main",Astro 欢喜台
+https://cdn.qd.je/163189.php?id=hxt
+
+#EXTINF:-1 group-title="Main",爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
+
+#EXTINF:-1 group-title="Sports",Astro Badminton
+https://stream1.freetv.fun/24b22f036065c51f3bbbd8b4724df4cb6229309d7afd955830607cfa96d09971.ctv
+
+#EXTINF:-1 group-title="Sports",Astro Premier League
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGsGJ5Qi3z3FA6bxA0mCuM46y3l5r33hnLEBjWYmAx4cb3I2_fZJFW2gqjEO9EZUkZ4QwWQ2h2GY2daC8l9v6j3CwGd2uQ-GfWPfCurmIxIAYaU10e1ltL1r0BAqZaTTGaq2vwMaDO0I94GmcJ2rmYfw-9IJgp5NH1vBGqNEFlBOIsyHo7oFrTv1XxR-aIjPZK-7wMuaoB--Ne6lbGtGAVRUbvCJuMlrPdv59QQOKZl5c.m3u8
+
+#EXTINF:-1 group-title="Sports",Astro Grandstand
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG8nDpOCvM-3uRAEtOKFGZCo2_AHYKoFwLivSztJO9XQH2XVg90sVKPrMpjUc7A7YzusdmbApOemR1Q-A2vv3oZj2UVdSVAeblSq1r_Ex50loHtSdDn-HDipM69uq2WrqepXGTbtB_e2DeN61062E_6H6X1avugnNm4U94r6f2NQFOi_9vOjZCtzc-dNvf75i1LzA8NAkCdNO24hO3CWSGww.m3u8
+
+#EXTINF:-1 group-title="Sports",Astro Sports Plus
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0DOx7tUfME07IUO4eiV8ZYtI_I61sF8JzPYuHKm6V4AJvxnlvmCIeZliL7pfpgCB0APZAPyDLvrPQk6hteGR4eZdo1a9oIxqbb5UKsccczl9OViEx6uu1wQM1Fol7dFcSFW-_8Ns9c_rFHmdD5acLlnFMX--0Lxn6A0rMcmbUwbt5N3T_5j6uPLSAcBBCzlHZnIF5bLk6-9BpP6ONzFrxw.m3u8
+
+
+#######################
+# Malaysia
+#######################
+
+#EXTINF:-1 group-title="Malaysia",Channel 5
+https://cdn.qd.je/163189/ch5
+
+#EXTINF:-1 group-title="Malaysia",Channel 8
+https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 group-title="Malaysia",Channel U
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 group-title="Malaysia",8TV
+https://cdn.qd.je/163189/8tv
+
+#EXTINF:-1 group-title="Malaysia",Astro AOD
+https://cdn.qd.je/163189/aod
+
+#EXTINF:-1 group-title="Malaysia",Astro 欢喜台
+https://cdn.qd.je/163189/hxt
+
+#EXTINF:-1 group-title="Malaysia",爱奇艺（大马）
+https://cdn.qd.je/163189/iqiyi
+
+
+#######################
+# Kids
+#######################
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://nl.utako.moe/disneychan/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Cartoon Network Japan
+https://nl.utako.moe/cartoon_network/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+
+#EXTINF:-1 group-title="Kids",Disney Junior English
+http://portal-iptv.net:8080/077998950140/077998950140/439
+
+#EXTINF:-1 group-title="Kids",卡酷少儿
+http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="Kids",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 group-title="Kids",浙江教科影视
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+
+#EXTINF:-1 group-title="Kids",KIDS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+
+
+#######################
+# Movies
+#######################
+
+#EXTINF:-1 group-title="Movies",周星驰
+http://74.91.26.218:82/live/vlzxc.m3u8
+
+#EXTINF:-1 group-title="Movies",周星驰电影
+http://107.150.60.122/live/lbzxc.m3u8
+
+#EXTINF:-1 group-title="Movies",成龙
+http://74.91.26.218:82/live/vlcl.m3u8
+
+#EXTINF:-1 group-title="Movies",成龙电影
+http://107.150.60.122/live/lbcl.m3u8
+
+#EXTINF:-1 group-title="Movies",林正英
+http://74.91.26.218:82/live/vllzy.m3u8
+
+#EXTINF:-1 group-title="Movies",林正英影院
+http://107.150.60.122/live/lblzy.m3u8
+
+#EXTINF:-1 group-title="Drama",少年包青天
+http://74.91.26.218:82/live/vlsnbqt.m3u8
+
+#EXTINF:-1 group-title="Education",早教频道
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
